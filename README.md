@@ -14,13 +14,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 --> 
 
-## Hi, I'm David 👋
+## Hello 👋  
+✨ About Me ✨
 
-🎓 BSc Artificial Intelligence student  
-🤖 Aspiring AI Engineer  
+🎓 BSc Artificial Intelligence student (First-Class)  
+🤖 Aspiring AI Engineer with strong software engineering foundations  
+🔭 Interested in applied AI, ML systems, and real-world applications  
+🌱 Currently learning React and deepening my machine learning skills  
 
-💻 Building strong software engineering foundations  
-🧠 Learning AI & machine learning  
+⌨️ Languages: Python, Java, JavaScript, TypeScript, C++, SQL  
+🛠️ Tools: PyTorch, Git/GitHub, Docker, React, Jupyter
+
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=davidrapu&show_icons=true&theme=transparent) -->
 
