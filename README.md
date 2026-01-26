@@ -13,64 +13,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-# Hi, I'm David 👋
+--> 
 
-I'm a **BSc Artificial Intelligence student** with a strong interest in becoming an **AI Engineer**.  
-I focus on building solid **software engineering foundations** while developing practical **AI & machine learning skills**.
+## Hi, I'm David 👋
 
----
+🎓 BSc Artificial Intelligence student  
+🤖 Aspiring AI Engineer  
 
-## 🧠 About Me
+💻 Building strong software engineering foundations  
+🧠 Learning AI & machine learning  
 
-- 🎓 BSc student studying **Artificial Intelligence**
-- 🤖 Aspiring **AI Engineer**
-- 🧑‍💻 Strong interest in **software engineering + AI systems**
-- 📚 Currently balancing theory with hands-on projects
-- 🧩 I enjoy understanding how systems work end-to-end, from data to deployment
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=davidrapu&show_icons=true&theme=transparent) -->
 
----
-
-## 🛠 Skills & Technologies
-
-### Programming
-- **Python** (AI, data, scripting)
-- **JavaScript / TypeScript** (software & web development)
-
-### AI & Data
-- Machine Learning fundamentals
-- Data preprocessing & analysis
-- Model training and evaluation
-- Currently learning deep learning concepts
-
-### Software Engineering
-- Git & GitHub
-- REST APIs
-- Backend fundamentals
-- Clean code & problem solving
-- Linux & CLI tools
-
----
-
-## 🚀 Current Focus
-
-- Strengthening **software engineering fundamentals**
-- Building **AI/ML projects** from scratch
-- Learning how to **deploy and integrate models** into real applications
-- Exploring the intersection of **AI systems and production software**
-
----
-
-## 📊 GitHub Stats
-
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidrapu&show_icons=true&theme=transparent)
-
----
-
-## 📫 Connect With Me
-
-- GitHub: [@davidrapu](https://github.com/davidrapu)
-
----
-
-⭐️ Always learning, always building.
