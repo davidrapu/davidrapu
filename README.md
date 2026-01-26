@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 ## Hello 👋  
 ✨ About Me ✨
 
-🎓 BSc Artificial Intelligence student (First-Class)  
-🤖 Aspiring AI Engineer with strong software engineering foundations  
-🔭 Interested in applied AI, ML systems, and real-world applications  
-🌱 Currently learning React and deepening my machine learning skills  
+- 🎓 BSc Artificial Intelligence student (First-Class)  
+- 🤖 Aspiring AI Engineer with strong software engineering foundations  
+- 🔭 Interested in applied AI, ML systems, and real-world applications  
+- 🌱 Currently learning React and deepening my machine learning skills  
 
 ⌨️ Languages: Python, Java, JavaScript, TypeScript, C++, SQL  
 🛠️ Tools: PyTorch, Git/GitHub, Docker, React, Jupyter
