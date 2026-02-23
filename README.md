@@ -26,5 +26,5 @@ Here are some ideas to get you started:
 🛠️ Tools: PyTorch, Git/GitHub, Docker, React, Jupyter
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=davidrapu&show_icons=true&theme=transparent)
+[GitHub stats](https://github-readme-stats.vercel.app/api?username=davidrapu&show_icons=true&theme=transparent)
 
