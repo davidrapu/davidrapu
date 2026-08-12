@@ -7,10 +7,10 @@ United Kingdom 🇬🇧
 
 ## About Me
 
-- 🎓 First-Class BSc Artificial Intelligence student  
-- 💻 Building my first solo full-stack app (Cognify), owning frontend & backend  
-- 🏗 Strengthening software engineering fundamentals through real projects  
-- 🤖 Long-term goal: building scalable AI-driven systems  
+- 🎓 First-Class BSc Artificial Intelligence graduate
+- 🏗️ Strengthening my software engineering fundamentals through hands-on projects
+- 🤖 Passionate about building scalable, AI-driven systems
+- 🚀 Interested in AI/ML, software engineering, and intelligent applications
 
 ---
 
