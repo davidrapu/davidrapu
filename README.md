@@ -1,28 +1,39 @@
-# Hi 👋, I'm David Rapu
+# Hi, I'm David Rapu 👋
 
-**Software Engineer • AI Engineer in Training**  
-United Kingdom 🇬🇧
+**Software Engineer building LLM-powered applications**
+📍 Lagos, Nigeria
 
----
-
-## About Me
-
-- 🎓 First-Class BSc Artificial Intelligence graduate
-- 🏗️ Strengthening my software engineering fundamentals through hands-on projects
-- 🤖 Passionate about building scalable, AI-driven systems
-- 🚀 Interested in AI/ML, software engineering, and intelligent applications
+I have a First-Class BSc in Artificial Intelligence and I build web apps end to end. I'm working towards becoming an AI engineer, and I'm learning by building: retrieval-augmented generation (RAG), evaluating LLM output, and keeping chatbots grounded and safe.
 
 ---
 
-## GitHub Stats
+## 🔨 What I'm working on
 
-![](https://github-readme-stats.vercel.app/api?username=davidrapu&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=davidrapu&theme=dark&hide_border=true)
+**[chatbots](https://github.com/davidrapu/chatbots)**: a chatbot that answers questions using a company's FAQ
+- RAG pipeline: sentence-transformer embeddings in PostgreSQL + pgvector, streamed Claude responses via FastAPI
+- LLM-as-judge eval suite (30 test cases) to measure grounding and catch hallucinations
+- Guardrails against prompt injection, made-up answers and collecting personal data
+- Embeddable React + TypeScript chat widget
+
+## ⭐ Featured projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [Cognify](https://github.com/davidrapu/Cognify) | Cognitive assessment platform with games, analytics and an ML classifier ([live demo](https://cog-nify.app)) | React, TypeScript, Express, Prisma, PostgreSQL, FastAPI, scikit-learn |
+| [nurse.ly](https://github.com/davidrapu/nurse.ly) | Childcare tracking app built by a team in Agile sprints | React, FastAPI, MySQL, Docker |
+| [CNN-Model](https://github.com/davidrapu/CNN-Model) | CIFAR-10 image classifier | PyTorch |
+| [Evolutionary-Algorithm-Genetic-Programming](https://github.com/davidrapu/Evolutionary-Algorithm-Genetic-Programming) | Genetic algorithm and stack-based GP system written from scratch | Python, NumPy |
+| [Virtual-Cafe](https://github.com/davidrapu/Virtual-Cafe) | Multi-client, multithreaded client–server simulation | Java sockets, concurrency |
+
+## 🧰 Tech I use
+
+**AI / ML:** Anthropic API · RAG · pgvector · sentence-transformers · PyTorch · scikit-learn · NLTK
+**Backend:** Python · FastAPI · Node.js · Express · PostgreSQL · Prisma · Docker
+**Frontend:** React · TypeScript · Tailwind CSS · shadcn/ui
 
 ---
 
-## Connect
+## 📫 Connect
 
-- Email: [davidrap47@yahoo.com](mailto:davidrap47@yahoo.com)  
-- GitHub: [davidrapu](https://github.com/davidrapu)  
-- LinkedIn: [davidrapu](https://www.linkedin.com/in/davidrapu)  
+- Email: [davidrapu47@gmail.com](mailto:davidrapu47@gmail.com)
+- LinkedIn: [davidrapu](https://www.linkedin.com/in/davidrapu)
