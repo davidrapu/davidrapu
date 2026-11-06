@@ -1,24 +1,22 @@
 # Hi, I'm David Rapu 👋
 
-**Software Engineer building LLM-powered applications**
+**Software Intern at Huawei**
 📍 Lagos, Nigeria
 
-I have a First-Class BSc in Artificial Intelligence and I build web apps end to end. I'm working towards becoming an AI engineer, and I'm learning by building: retrieval-augmented generation (RAG), evaluating LLM output, and keeping chatbots grounded and safe.
+I have a First-Class BSc in Artificial Intelligence and I build web apps end to end. I'm working towards becoming an AI engineer, and right now I'm deepening my machine learning foundations alongside my internship.
 
 ---
 
 ## 🔨 What I'm working on
 
-**[chatbots](https://github.com/davidrapu/chatbots)**: a chatbot that answers questions using a company's FAQ
-- RAG pipeline: sentence-transformer embeddings in PostgreSQL + pgvector, streamed Claude responses via FastAPI
-- LLM-as-judge eval suite (30 test cases) to measure grounding and catch hallucinations
-- Guardrails against prompt injection, made-up answers and collecting personal data
-- Embeddable React + TypeScript chat widget
+- 💼 **Huawei:** Software Intern
+- 🎓 **Imperial College London:** Professional Certificate in Machine Learning and Artificial Intelligence
 
 ## ⭐ Featured projects
 
 | Project | What it is | Stack |
 |---|---|---|
+| [chatbots](https://github.com/davidrapu/chatbots) | FAQ chatbot with a RAG pipeline, an LLM-as-judge eval suite, guardrails and an embeddable chat widget | FastAPI, PostgreSQL, pgvector, Anthropic API, React, TypeScript |
 | [Cognify](https://github.com/davidrapu/Cognify) | Cognitive assessment platform with games, analytics and an ML classifier ([live demo](https://cog-nify.app)) | React, TypeScript, Express, Prisma, PostgreSQL, FastAPI, scikit-learn |
 | [nurse.ly](https://github.com/davidrapu/nurse.ly) | Childcare tracking app built by a team in Agile sprints | React, FastAPI, MySQL, Docker |
 | [CNN-Model](https://github.com/davidrapu/CNN-Model) | CIFAR-10 image classifier | PyTorch |
